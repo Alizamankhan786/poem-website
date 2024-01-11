@@ -1,0 +1,78 @@
+/* div{
+    text-align: center;
+} */
+.tbl{
+    text-align: center;
+    padding: 20px;
+}
+.nav{
+    color: azure;
+    font-size: 38px;
+    padding: 25px;
+    background-color: blueviolet;
+    text-decoration: none;
+}
+.nava:hover{
+    color: aqua;
+    cursor: pointer;
+}
+.poem1{
+    font-family: "luckiest guy";
+    font-size: 80px;
+}
+h1{
+    text-align: center;
+    font-size: 70px;
+}
+h1{
+    display: block;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.poem1:first-letter{
+    color: rgb(173, 255, 47);
+    font-size: 130px;
+}
+.para{
+    font-family: "poppins";
+    font-weight: bold;
+    color: teal;
+}
+.para:first-line{
+    color: brown;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+}
+.poem2{
+    font-family: "pacifio";
+    color: chocolate;
+}
+.poem3{
+    font-family: "satisfy";
+    color: rgb(255, 0, 0);
+}
+.poem3:first-letter{
+    color: green;
+    font-size: 130px;
+}
+.poem4{
+    font-family: "pacifico";
+    color: rgb(226, 47, 77);
+}
+.poem4:first-letter{
+    color: blue;
+    font-size: 130px;
+}
+.poem5{
+    font-family: "pinkchicken";
+    color: green;
+}
+.poem5:first-letter{
+    color: rgb(0, 255, 255);
+    font-size: 130px;
+}
